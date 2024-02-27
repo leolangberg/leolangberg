@@ -1,5 +1,5 @@
 <h1 align="left">Leo Långberg</h1>
-<h3 align="left"> <img src="kthlogo.png" alt="KTH Logo" width="20" height="20"/> KTH Information & Communcation Technology  </h3> 
+<h3 align="left"> <img src="kthlogo.png" alt="KTH Logo" width="20" height="20"/> KTH Information & Communication Technology  </h3> 
 
 <p align="left">
 </p>
