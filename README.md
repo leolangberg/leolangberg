@@ -17,7 +17,7 @@
   <h5> Projects: </h5> 
    <ul>
     <li><a href="https://github.com/leolangberg/IS1200">Snake Game</a></li>
-    <li><a href="https://github.com/leolangberg/iv1351">PostreSQL Database</a></li>
+    <li><a href="https://github.com/leolangberg/iv1351">PostgreSQL Database</a></li>
     <!-- Add more list items as needed -->
   </ul>
 </div>
