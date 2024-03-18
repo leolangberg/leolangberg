@@ -14,6 +14,7 @@
 ###
 
 <div align="left">
+  <h6> 2nd year Computer Engineering Student.</h6>
   <h5> Projects: </h5> 
    <ul>
     <li><a href="https://github.com/leolangberg/IS1200">Snake Game</a></li>
