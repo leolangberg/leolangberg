@@ -14,11 +14,13 @@
 ###
 
 <div align="left">
-  <h6> 2nd year Computer Engineering Student.</h6>
+  <h6> Hello, my name is Leo & I am currently in my sophomore year of university. Below are some related university projects along with some of my own works. Feel free to check them out. </h6>
+  <!-- <h6> 2nd year Computer Engineering Student.</h6> -->
   <h5> Projects: </h5> 
    <ul>
     <li><a href="https://github.com/leolangberg/IS1200">Snake Game</a></li>
     <li><a href="https://github.com/leolangberg/iv1351">PostgreSQL Database</a></li>
+    <li><a href="https://github.com/leolangberg/sdl2-hedvig">Physics Engine</a></li>
     <!-- Add more list items as needed -->
   </ul>
 </div>
