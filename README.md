@@ -18,7 +18,7 @@
   <h6> 2nd year Computer Engineering Student.</h6>
   <h5> Projects: </h5> 
    <ul>
-    <li><a href="https://devolv-project.pages.dev/" target="_blank">Mortgage Calculator for Devolv™</li>
+    <li><a href="https://devolv-project.pages.dev/" target="_blank">Mortgage Calculator for Devolv™</a></li>
     <li><a href="https://github.com/leolangberg/iv1351">PostgreSQL Database</a></li>
     <li><a href="https://github.com/leolangberg/3D-Engine">Graphics Engine 3D</a></li>
     <!-- <li><a href="https://github.com/leolangberg/IS1200">Snake Game</a></li> -->
