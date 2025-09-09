@@ -1,5 +1,5 @@
 <h1 align="left">Leo Långberg</h1>
-<h3 align="left"> <img src="kthlogo.png" alt="KTH Logo" width="20" height="20"/> KTH Information & Communication Technology </h3>
+<h3 align="left"> <img src="kthlogo.png" alt="KTH Logo" width="20" height="20"/> KTH Embedded Systems </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leolangberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 
@@ -15,7 +15,7 @@
 
 <div align="left">
   <!-- <h6> Hello, my name is Leo & I am currently in my sophomore year of university. Below are some related university projects along with some of my own works. Feel free to check them out. </h6> -->
-  <h6> 3rd year Computer Engineering Student.</h6>
+  <h6> 1st year Master's Student in Embedded Systems.</h6>
   <h5> Projects: </h5> 
    <ul>
     <li><a href="https://devolv-project.pages.dev/">Mortgage Calculator for Devolv™</a></li>
