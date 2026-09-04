@@ -15,11 +15,11 @@
 
 <div align="left">
   <!-- <h6> Hello, my name is Leo & I am currently in my sophomore year of university. Below are some related university projects along with some of my own works. Feel free to check them out. </h6> -->
-  <h6> 1st year Master's Student in Embedded Systems.</h6>
+  <h6> 2nd year Master's Student in Embedded Systems.</h6>
   <h5> Projects: </h5> 
    <ul>
-    <li><a href="https://devolv-project.pages.dev/">Mortgage Calculator for Devolv™</a></li>
-    <li><a href="https://github.com/leolangberg/iv1351">PostgreSQL Database</a></li>
+    <!-- <li><a href="https://devolv-project.pages.dev/">Mortgage Calculator for Devolv™</a></li> -->
+    <!-- <li><a href="https://github.com/leolangberg/iv1351">PostgreSQL Database</a></li> -->
     <li><a href="https://github.com/leolangberg/3D-Engine">Graphics Engine 3D</a></li>
     <!-- <li><a href="https://github.com/leolangberg/IS1200">Snake Game</a></li> -->
     <!-- Add more list items as needed -->
